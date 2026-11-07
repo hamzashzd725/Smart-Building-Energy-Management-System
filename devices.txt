@@ -1,0 +1,8 @@
+# deviceType,deviceId,roomId,name,powerWatts,isOn,settingName,settingValue
+AC,1001,101,Lab_AC,1800,1,targetTemperatureC,24
+LIGHT,1002,101,LED_Lights,240,1,brightnessPercent,80
+FAN,1003,101,Ceiling_Fan,75,1,speedLevel,2
+AC,1004,102,Office_AC,1200,0,targetTemperatureC,24
+LIGHT,1005,102,Office_Lights,120,1,brightnessPercent,70
+AC,1006,103,Server_AC,1500,1,targetTemperatureC,21
+FAN,1007,103,Server_Fan,60,1,speedLevel,1
